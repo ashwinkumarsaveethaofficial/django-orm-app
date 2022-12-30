@@ -5,7 +5,7 @@ To develop a Django application to store and retrieve data from a database using
 
 ## Entity Relationship Diagram
 
-Include your ER diagram here
+
 
 ## DESIGN STEPS
 
@@ -42,9 +42,6 @@ admin.site.register(Employee,EmployeeAdmin)
 ```
 
 ## OUTPUT
-hifho;f34
-
-Include the screenshot of your admin page.
 
 
 ## RESULT
