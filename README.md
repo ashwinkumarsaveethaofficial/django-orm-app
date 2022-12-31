@@ -5,7 +5,6 @@ To develop a Django application to store and retrieve data from a database using
 
 ## Entity Relationship Diagram
 
-oienqgf
 
 ## DESIGN STEPS
 
@@ -42,7 +41,7 @@ admin.site.register(Employee,EmployeeAdmin)
 ```
 
 ## OUTPUT
-ugwi
+
 
 ## RESULT
 The result for orm is successful.
